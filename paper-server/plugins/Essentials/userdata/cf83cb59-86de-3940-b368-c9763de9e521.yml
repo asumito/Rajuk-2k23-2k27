@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.75.193.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768442384598
+  login: 1768439011688
+money: '0'
+last-account-name: szafza
+logoutlocation:
+  world: 5c13a134-d38d-4ed3-8e51-b62ba39bd4c2
+  world-name: world
+  x: 1458.1321820722146
+  y: 20.0
+  z: -1875.038466787837
+  yaw: -143.125
+  pitch: 65.99996948242188
+lastlocation:
+  world: 5c13a134-d38d-4ed3-8e51-b62ba39bd4c2
+  world-name: world
+  x: 87.18813647080923
+  y: 70.0
+  z: 168.23288813557178
+  yaw: -98.85675048828125
+  pitch: 4.200314044952393

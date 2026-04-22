@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1768325176836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769220342790
+  login: 1769216972792
+money: '0'
+last-account-name: Dsguy222
+logoutlocation:
+  world: 5c13a134-d38d-4ed3-8e51-b62ba39bd4c2
+  world-name: world
+  x: 1581.260758099178
+  y: 64.0
+  z: -1794.3346421078877
+  yaw: 138.750244140625
+  pitch: 16.800018310546875
+lastlocation:
+  world: 5c13a134-d38d-4ed3-8e51-b62ba39bd4c2
+  world-name: world
+  x: 1584.124257070802
+  y: 64.0
+  z: -1797.5392954372592
+  yaw: 124.25616455078125
+  pitch: 9.825018882751465
